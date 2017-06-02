@@ -1,0 +1,31 @@
+//Code Academy Lesson 1//
+
+var myString = "Joe";
+var myNumber = 33;
+var myBoolean = false;
+
+
+// Do not edit the code under this line
+console.log("Name: " + myString);
+console.log("Lucky Number: " + myNumber);
+console.log("Good joke? " + myBoolean);
+
+// Lesson 2 //
+
+var myAge = 42
+var moonYears = (2017 - 1969)
+var number = (65/240)
+
+
+console.log(myAge + 3.5)
+console.log("It has been " + moonYears + " years since the moon landing.")
+console.log(65/240)
+console.log(number*100)
+
+// Lesson 3 //
+
+var moonPhases = 365/27
+var moonRemainder = 365%27
+
+console.log(moonPhases)
+console.log(moonRemainder)
